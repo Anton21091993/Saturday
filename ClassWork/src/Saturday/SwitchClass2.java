@@ -26,6 +26,8 @@ public class SwitchClass2 {
                 System.out.println("ssss");
             case 14:
                 System.out.println("anynewcommit");
+            case 15: 
+                System.out.println("Nikita's commit");
 
            //
 
