@@ -32,7 +32,7 @@ public class SwitchClass2 {
                 System.out.println("Nikita's commit");
 
             case 15:
-                System.out.println("Anton case 15");
+                System.out.println("Anton case 16");
 
            //
 
