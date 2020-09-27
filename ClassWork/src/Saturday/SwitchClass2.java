@@ -24,7 +24,8 @@ public class SwitchClass2 {
                 System.out.println("Add something2");
             case 13:
                 System.out.println("ssss");
-
+            case 14:
+                System.out.println("anynewcommit");
 
            //
 
