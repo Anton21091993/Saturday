@@ -41,7 +41,7 @@ public class SwitchClass2 {
 
            //sdfsdfsdfsdf
                 System.out.println("ssssss");
-
+                System.out.println("sssss222222222s");
         }
         System.out.println("So let's finish the work");
     }
