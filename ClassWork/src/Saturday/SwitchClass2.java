@@ -31,11 +31,13 @@ public class SwitchClass2 {
             case 15: 
                 System.out.println("Nikita's commit");
 
-            case 15:
-                System.out.println("Anton case 15");
+            case 16:
+                System.out.println("Anton case 17");
+            case 17:
+                System.out.println("Anton case 17");
 
-           //
-
+           //sdfsdfsdfsdf
+                System.out.println("ssssss");
 
         }
         System.out.println("So let's finish the work");
